@@ -25,7 +25,7 @@ To use the script, simply replace `'original.wav'` with the path of your audio f
 
 ## Caution
 
-Despite the fun and satirical nature of this README, we urge you not to take this too seriously. The transcription quality of reversed audio files is typically very poor or even nonsensical because reversed speech doesn't conform to the phonetic and syntax rules of any human language. Also, the `whisper` library doesn't really exist and is purely for illustrative purposes.
+Despite the fun and satirical nature of this README, we urge you not to take this too seriously. The transcription quality of reversed audio files is typically very poor or even nonsensical because reversed speech doesn't conform to the phonetic and syntax rules of any human language. 
 
 But hey, who knows what diabolical secrets you might uncover?
 
