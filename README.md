@@ -1,4 +1,4 @@
-# Audio-Reversal-and-Transcription
+# Automated Diabiolical Messages Transcription
 
 This is a very simple (and slightly tongue-in-cheek) Python script designed to allow you to reverse audio files and transcribe them. The purpose? To see if there are any hidden diabolical messages lurking in your audio files, of course. With the power of Python and the awesome non-existent Whisper library, we make it easy for you to expose the secret truth behind every audio file, so you can finally unveil those cryptic prophecies in your favorite pop songs.
 
